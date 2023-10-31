@@ -16,3 +16,11 @@ Project: Famous people
 In this project, you’re going to make your own table with some small set of “famous people”, then make more tables about things they do and join those to create nice human readable lists.
 For example, here are types of famous people and the questions your data could answer:
 
+Project: App impersonator
+Think about your favorite apps, and pick one that stores your data- like a game that stores scores, an app that lets you post updates, etc. 
+Now in this project, you're going to imagine that the app stores your data in a SQL database (which is pretty likely!), and write SQL statements that might look like their own SQL.
+    1_CREATE a table to store the data.
+    2_INSERT a few example rows in the table.
+    3_Use an UPDATE to emulate what happens when you edit data in the app.
+    4_Use a DELETE to emulate what happens when you delete data in the app.
+
